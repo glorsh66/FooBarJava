@@ -1,4 +1,4 @@
-public class   {
+public class FooBarJava {
 //    Write a program that prints the numbers from 1 to 100.
 //    But for multiples of three print “Foo” instead of the number
 //    and for the multiples of five print “Bar”.
